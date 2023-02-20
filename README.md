@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Mugisha Remy</h1>
 <h3 align="center">A passionate software developer from Rwanda</h3>
 
